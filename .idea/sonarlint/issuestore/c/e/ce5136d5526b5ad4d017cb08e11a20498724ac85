@@ -1,0 +1,15 @@
+
+X
+java:S2184"BCast one of the operands of this addition operation to a "double".(íÊºÏ
+`
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(¶¾©Íøÿÿÿÿ
+c
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(Şş™Àıÿÿÿÿ
+]
+java:S2184"BCast one of the operands of this division operation to a "double".(Ù¿¯•üÿÿÿÿ
+[
+java:S2184"@Cast one of the operands of this integer division to a "double".(Ù¿¯•üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ìŞ²
+E	java:S106"+Replace this use of System.out by a logger.(Å²¢şÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÙÊĞş
+?	java:S106"+Replace this use of System.out by a logger.(‰æË
